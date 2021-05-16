@@ -11,3 +11,5 @@
 ## git remote add origin https://github.com/BlackCode7/projeto_java_springboot_react.git
 ## git branch -M main
 ## git push -u origin main
+
+Parei no tempo 36:00min vídeo parte 1
