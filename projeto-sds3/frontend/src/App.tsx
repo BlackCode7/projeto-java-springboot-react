@@ -1,7 +1,8 @@
 function App() {
   return (
     <div>  
-      <div> Ola Mundo - Projeto Java com React</div>
+      
+      <div className="text-primary"> Ola Mundo - Projeto Java com React</div>
     </div>
   );
 }
