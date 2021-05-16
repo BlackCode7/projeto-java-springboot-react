@@ -10,3 +10,12 @@ function Footer() {
     );
 }
 export default Footer;
+
+/*
+Outro modelo de function in <TypeScript>
+const BarChart = () => {
+    return (
+        // comandos do TypeScript
+    );
+}
+*/

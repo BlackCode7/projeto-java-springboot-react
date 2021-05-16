@@ -15,3 +15,12 @@ function NavBar() {
 
 export default NavBar;
 
+/*
+Outro modelo de function in <TypeScript>
+const BarChart = () => {
+    return (
+        // comandos do TypeScript
+    );
+}
+*/
+

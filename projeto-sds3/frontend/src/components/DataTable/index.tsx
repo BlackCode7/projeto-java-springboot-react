@@ -52,3 +52,13 @@ function DataTable() {
 }
 
 export default DataTable;
+
+
+/*
+Outro modelo de function in <TypeScript>
+const BarChart = () => {
+    return (
+        // comandos do TypeScript
+    );
+}
+*/
